@@ -14,7 +14,7 @@
 This modular course is designed for a **diverse group of learners** across age groups and professional backgrounds, including:
 
 - Corporate clients (e.g., **Sustainability focus groups** users)
-- Employees from sustainability-focused organizations
+- Employees from sustainability-focussed organizations
 - Learners from **sustainability learning platforms**
 - Youth and adult learners interested in sustainability and data
 
@@ -162,6 +162,6 @@ Learners and facilitators can:
 For questions, collaboration, or to contribute:
 
 - Open an **Issue** on GitHub
-- Reach out via the organization running this pilot (e.g., Carbon Crunch, Sustainability platforms)
+- Reach out via the organization running this pilot (e.g., Sustainability focus groups, Sustainability platforms)
 
 This is a living course, designed to evolve with learner needs, emerging data, and real-world sustainability challenges.
