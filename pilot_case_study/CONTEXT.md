@@ -1,0 +1,21 @@
+# Pilot Context
+
+## Learner Profiles
+
+- Corporate clients (sustainability focus groups)
+- Sustainability teams from medium to large enterprises
+- Sustainability platform learners
+- Mixed age groups: young professionals to senior managers
+- Various experience levels: beginners to advanced
+
+## Client Types
+
+- Sustainability-focused organizations
+- Corporate internal training cohorts
+- Community and platform-based sustainability learners
+
+## Course Version
+
+- Pilot Start Date: [Add date]
+- Current Version: 1.0
+- Branch: main (free), corporate-paid (paid)
