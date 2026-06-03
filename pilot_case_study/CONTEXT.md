@@ -16,6 +16,6 @@
 
 ## Course Version
 
-- Pilot Start Date: [Add date]
+- Pilot Start Date: [03-06-2026]
 - Current Version: 1.0
 - Branch: main (free), corporate-paid (paid)
